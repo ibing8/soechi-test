@@ -1,0 +1,1 @@
+INSERT INTO UNITS (id, name_unit, rate) values (1, 'pcs', 1),(2, 'lusin', 12),(3, 'box', 24);
